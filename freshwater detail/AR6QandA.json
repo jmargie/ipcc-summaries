@@ -1,0 +1,58 @@
+{
+  "prompts":[
+    {
+        "type": "Short Answer",
+        "description": "Please come up with three short-answer questions to test reading comprehension -- which cannot be answered by searching for specific words -- for this document, : [text]. Provide an answer after",
+        "questions": [
+            {
+                "question": "Explain the concept of detection and attribution in hydrological changes as discussed in the document. Why is it challenging to attribute hydrological changes confidently to climate change?",
+                "answer": "Detection involves statistically demonstrating that a documented hydrological change is not due to natural variability of the water cycle. For robust attribution, all drivers of the hydrological change must be identified, with confidence levels assigned to their contributions. It is challenging because human activities such as water withdrawals, land use change, and pollution complicate the process. Additionally, climate models currently do not simulate the water cycle with sufficient resolution for catchment-scale impacts to be attributed confidently to anthropogenic climate change."
+            },
+            {
+                "question": "What are some examples of regional hydrological changes identified in this document, and what are the suggested causes behind these changes?",
+                "answer": "Examples of regional hydrological changes include increased winter flows in regions with seasonal snow storage due to more precipitation falling as rain rather than snow, and earlier spring discharge maxima; decreases in streamflow in southern and eastern Europe and certain parts of North America, contrasted with increases elsewhere, such as in northern latitudes. These changes are attributed to climatic factors like warming temperatures altering precipitation patterns, alongside contributions from human land use changes and urbanization."
+            },
+            {
+                "question": "Discuss the complexities involved in assessing the impacts of climate change on groundwater and water quality as highlighted in the document.",
+                "answer": "Changes in groundwater levels are challenging to attribute directly to climatic changes due to significant influences from land use changes and groundwater abstractions. The detection of change relies on limited observational studies. Similarly, water quality changes are often documented in isolated studies, mostly in high-income countries, with limited data. Changes in temperature and precipitation patterns can affect water quality through increased eutrophication, runoff, and pollution but are complicated by other factors such as local land use, making attribution to climate change less certain. Such effects should be interpreted locally, taking various factors into account."
+            }
+        ]
+    },
+    {
+        "type": "Multiple Choice",
+        "description": "Please come up with three multiple choice questions to test reading comprehension -- which cannot be answered by searching for specific words -- for this document: [text]. Provide an answer after.",
+        "questions":[
+        {
+            "question": "Which of the following statements best captures the main challenges associated with attributing hydrological change to anthropogenic climate change as discussed in the document?",
+            "options": [
+            "All hydrological changes can be directly linked to natural variability.",
+            "Multi-step attribution is currently necessary due to limitations in climate models and the difficulty in isolating human impact from natural variability.",
+            "Climate models perfectly simulate the water cycle at catchment-level resolution, allowing for direct attribution.",
+            "It is always clear whether extreme hydrological events are caused by climate change or natural variability."
+            ],
+            "answer": "Multi-step attribution is currently necessary due to limitations in climate models and the difficulty in isolating human impact from natural variability."
+        },
+        {
+            "question": "Considering the observed hydrological changes in precipitation and extreme events, which region is reported to have experienced changes such as a shorter snowfall season and more frequent warm periods?",
+            "options": [
+            "The tropical Andes",
+            "Northern Hemisphere",
+            "North America",
+            "Southern France"
+            ],
+            "answer": "Northern Hemisphere"
+        },
+        {
+            "question": "In the context of the document, what is described as a common effect of increased extreme rainfall on water bodies, and what evidence supports this claim?",
+            "options": [
+            "Decreased sediment loads due to erosion control; strong evidence from global soil conservation schemes.",
+            "Enhanced soil erosion and increased sediment loads; studies indicating increased rainfall erosivity and subsequent sediment load changes in regions like the Yellow River basin.",
+            "Improved water quality due to natural filtration; abundant evidence from urban studies.",
+            "Reduced flooding risk due to better absorption; based on inconclusive regional studies."
+            ],
+            "answer": "Enhanced soil erosion and increased sediment loads; studies indicating increased rainfall erosivity and subsequent sediment load changes in regions like the Yellow River basin."
+        }
+        ]
+    }
+    ]
+}

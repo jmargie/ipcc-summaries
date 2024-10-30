@@ -1,0 +1,58 @@
+{
+  "Prompts": [
+    {
+      "type": "Short Answer",
+      "description": "Please come up with three short-answer questions to test reading comprehension -- which cannot be answered by searching for specific words -- for this document.",
+      "questions": [
+        {
+          "question": "How do non-climate drivers complicate the detection and attribution of climate impacts on food production systems, and how might farmer behavior influence model assumptions about climate impacts?",
+          "answer": "Non-climate drivers, such as cultivar improvement and increased use of irrigation or fertilizers, complicate the detection and attribution of climate impacts on food production systems because they make defining a clear and consistent baseline difficult. These factors are not well-characterized in terms of spatial and temporal distributions, and understanding their relationships with specific outcomes of interest can be challenging. In terms of model assumptions, farmer behavior is often assumed not to adapt to climate changes, an assumption that might not hold true as some farming practices could change over time. In some instances, evidence and data suggest that changes such as the introduction of irrigation or different crop varieties may alter the relationship between climate conditions and crop production."
+        },
+        {
+          "question": "What evidence is presented regarding the impacts of climate change on rice and soybean yields compared to wheat and maize, and how do geographic location and the scale of analysis influence these findings?",
+          "answer": "The document indicates medium confidence in climate trends having negatively affected wheat and maize production in many regions and at a global scale. In contrast, the effects on rice and soybean yields have been smaller in major production regions and globally. The benefits and drawbacks of climate impacts on crop production can vary significantly by geographic location, with some high-latitude regions experiencing positive effects due to warming. Furthermore, the scale of analysis is relevant, as many studies focus on individual sites, provinces, or regions, while others analyze continental or global trends. These spatial considerations influence the findings and confidence levels in attributing changes in crop yields to climate factors."
+        },
+        {
+          "question": "What are the challenges faced in linking climate change to changes in fisheries and aquaculture, and how do different limitations in studies highlight these challenges?",
+          "answer": "The challenges in linking climate change to impacts on fisheries and aquaculture include the confounding effects of other factors such as overfishing, habitat modification, and pollution, which makes it difficult to isolate climate-related impacts. Most notably, attributing climate impacts to observed changes is hindered by variability and mixed interpretations, as seen in different studies of African lakes where temperature increases may or may not be the cause of reduced fish yields. The varying results and opinions regarding decreased productivity in fisheries highlight the difficulty in drawing clear conclusions and emphasize the need for more focused studies that can better separate climate-driven changes from those caused by other factors."
+        }
+      ]
+    },
+    {
+      "type": "Multiple Choice",
+      "description": "Please come up with three multiple-choice questions to test reading comprehension -- which cannot be answered by searching for specific words -- for this document.",
+      "questions": [
+        {
+          "question": "Why is it difficult to establish a baseline for formal detection of climate change impacts on food production systems?",
+          "options": [
+            "a) Because food production systems are consistently changing due to technological advancements.",
+            "b) Due to the presence of numerous non-climate drivers such as irrigation and fertilizer use.",
+            "c) Because climate change effects are too subtle to measure accurately.",
+            "d) Due to a lack of modern technologies to measure crop yields over time."
+          ],
+          "answer": "b) Due to the presence of numerous non-climate drivers such as irrigation and fertilizer use."
+        },
+        {
+          "question": "How do changes in atmospheric composition affect crop yields, according to the text?",
+          "options": [
+            "a) Atmospheric changes have no significant impact on crop production.",
+            "b) Increased CO2 enhances water use efficiency, but ozone likely suppresses major crop production.",
+            "c) Elevated levels of CO2 and ozone work synergistically to improve crop yields globally.",
+            "d) Increased ozone levels primarily benefit crop yields across all regions."
+          ],
+          "answer": "b) Increased CO2 enhances water use efficiency, but ozone likely suppresses major crop production."
+        },
+        {
+          "question": "In the context of fisheries, what challenges are highlighted in determining the impact of climate change?",
+          "options": [
+            "a) Difficulty in separating climate change impacts from socioeconomic factors affecting fisheries.",
+            "b) Lack of modern fishing techniques to accurately measure fish abundance.",
+            "c) The stability of marine ecosystems despite climate fluctuations.",
+            "d) Absence of consistent global fishing policies to monitor species distribution shifts."
+          ],
+          "answer": "a) Difficulty in separating climate change impacts from socioeconomic factors affecting fisheries."
+        }
+      ]
+    }
+  ]
+}

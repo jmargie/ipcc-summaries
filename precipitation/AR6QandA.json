@@ -1,0 +1,58 @@
+{
+  "Prompts": [
+    {
+      "type": "Short Answer",
+      "description": "Please come up with three short-answer questions to test reading comprehension -- which cannot be answered by searching for specific words -- for this document: [text]. Provide an answer after",
+      "questions": [
+        {
+          "question": "What are the two main factors that influence changes in extreme precipitation, and how do they impact it at a global and regional scale?",
+          "answer": "The two main factors influencing changes in extreme precipitation are thermodynamic and dynamic processes. At a global scale, increased atmospheric water-holding capacity due to warming (thermodynamic change) leads to more extreme precipitation, following the Clausius-Clapeyron relationship. At a regional scale, dynamic changes, such as large-scale modes of variability and local land-use changes, further modulate these extremes, causing variations in regional patterns."
+        },
+        {
+          "question": "How does urbanization affect heavy precipitation, and what are some mechanisms through which this occurs?",
+          "answer": "Urbanization contributes to the intensification of heavy precipitation, particularly in the afternoon and early evening. This occurs through mechanisms such as increased atmospheric moisture from urban heat islands, enhanced condensation due to urban aerosol emissions, pollution affecting cloud microphysics, and urban structures impacting atmospheric motion, all of which lead to locally intensified precipitation."
+        },
+        {
+          "question": "Why is there low confidence in identifying long-term trends in sub-daily extreme precipitation at the global scale?",
+          "answer": "There is low confidence in identifying long-term trends in sub-daily extreme precipitation globally due to sporadic spatial coverage and limited length of available data records. Additionally, the existing data records are often not long enough to robustly quantify past changes, and regional studies show mixed results, making it challenging to establish a consistent global pattern."
+        }
+      ]
+    },
+    {
+      "type": "Multiple Choice",
+      "description": "Please come up with three multiple choice questions to test reading comprehension -- which cannot be answered by searching for specific words -- for this document: [text]. Provide an answer after.",
+      "questions": [
+        {
+          "question": "How do regional scale changes in extreme precipitation differ from global scale changes, according to the document?",
+          "options": [
+            "a. Regional scale changes in extreme precipitation follow the Clausius–Clapeyron (C-C) relation closely, whereas global scale changes do not.",
+            "b. Regional scale changes in extreme precipitation are primarily influenced by dynamic changes, while global scale changes are modulated by thermodynamic changes following the C-C relation.",
+            "c. Both global and regional scale changes in extreme precipitation are exclusively determined by thermodynamic processes without the influence of dynamic changes.",
+            "d. Regional scale changes in extreme precipitation experience both thermodynamic and dynamic influences, with dynamic changes playing a more significant role than in global scale changes."
+          ],
+          "answer": "d. Regional scale changes in extreme precipitation experience both thermodynamic and dynamic influences, with dynamic changes playing a more significant role than in global scale changes."
+        },
+        {
+          "question": "Which of the following statements best describes the uncertainty related to future projections of precipitation extremes as discussed in the document?",
+          "options": [
+            "a. Future projections of precipitation extremes are highly certain, primarily due to the consistent changes in atmospheric aerosols.",
+            "b. The uncertainty in future projections of precipitation extremes is largely due to the unknown future changes in large-scale modes of variability and local factors like urbanization and land-use change.",
+            "c. Dynamic factors influencing extreme precipitation are well understood, reducing the uncertainty in future projections significantly.",
+            "d. Changes in sea surface temperatures are the sole source of uncertainty in projecting future extreme precipitation events."
+          ],
+          "answer": "b. The uncertainty in future projections of precipitation extremes is largely due to the unknown future changes in large-scale modes of variability and local factors like urbanization and land-use change."
+        },
+        {
+          "question": "Which of the following mechanisms related to urbanization is NOT mentioned in the document as a possible driver of increased extreme precipitation in urban centers?",
+          "options": [
+            "a. Increased atmospheric moisture due to horizontal convergence associated with the urban heat island effect.",
+            "b. Enhanced cloud formation due to greater biogenic emissions from urban vegetation.",
+            "c. Changes in cloud microphysics due to urban aerosol pollution.",
+            "d. Impediments to atmospheric motion due to urban structures."
+          ],
+          "answer": "b. Enhanced cloud formation due to greater biogenic emissions from urban vegetation."
+        }
+      ]
+    }
+  ]
+}

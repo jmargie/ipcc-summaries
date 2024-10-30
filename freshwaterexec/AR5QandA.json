@@ -1,0 +1,61 @@
+{
+  "Prompts": [
+    {
+      "type": "Short Answer",
+      "description": "Please come up with three short-answer questions to test reading comprehension -- which cannot be answered by searching for specific words -- for this document: [text]. Provide an answer after",
+      "questions": [
+        {
+          "question": "How do shifts in species ranges due to climate change impact local ecosystems, as described in the document?",
+          "answer": "Shifts in species ranges affect local ecosystems by altering community composition, often with exotic species displaying better adaptation to climate change than native species. This can lead to the emergence of new invasive species, especially in northern latitudes, disrupting ecological balance and potentially leading to biodiversity loss."
+        },
+        {
+          "question": "What role does Indigenous knowledge play in climate change adaptation, according to the document?",
+          "answer": "Indigenous knowledge plays a critical role in climate change adaptation by providing sustainable resource-use practices and ecosystem stewardship strategies that conserve biodiversity and enhance resilience. Involving Indigenous Peoples in adaptation planning is essential to developing effective strategies that respect traditional knowledge and support sustainable management."
+        },
+        {
+          "question": "What are the limitations of adaptation measures alone in addressing the impacts of climate change on ecosystems, as outlined in the document?",
+          "answer": "Adaptation measures alone are limited in fully addressing the impacts of climate change on ecosystems because they cannot prevent all damaging effects. While they can reduce risks and enhance resilience, deep reductions in greenhouse gas emissions are necessary to limit further harm. Additionally, adaptation must manage inevitable changes in ecosystem structures and processes, as well as prevent maladaptation."
+        }
+      ]
+    },
+    {
+      "type": "Multiple Choice",
+      "description": "Please come up with three multiple choice questions to test reading comprehension -- which cannot be answered by searching for specific words -- for this document: [text]. Provide an answer after.",
+      "questions": [
+        {
+          "question": "Which of the following best describes the observed impacts of climate change on terrestrial and freshwater ecosystems as detailed in Chapter 2?",
+          "options": [
+            "a) A stable range of species with minimal changes in community make-up",
+            "b) Shifts in species ranges and phenological events due to regional climate changes",
+            "c) An increase in marine biodiversity with diminishing freshwater species",
+            "d) Uniform impact across all ecosystems and species globally"
+          ],
+          "answer": "b) Shifts in species ranges and phenological events due to regional climate changes.",
+          "explanation": "The document discusses observed changes in species ranges and phenology, with numerous examples illustrating how climate change is causing shifts in community composition and timing of biological events. These changes are noted as evidence of regional climate effects."
+        },
+        {
+          "question": "According to the document, what are the main limitations of ecosystem-based adaptation (EbA) as a strategy for mitigating the impacts of climate change?",
+          "options": [
+            "a) EbA is universally applicable and has been widely implemented",
+            "b) EbA is an alternative to deep cuts in greenhouse gas emissions",
+            "c) EbA's effectiveness is diminished without proper governance and community involvement",
+            "d) EbA completely prevents species extinctions across all ecosystems"
+          ],
+          "answer": "c) EbA's effectiveness is diminished without proper governance and community involvement.",
+          "explanation": "The text highlights the need for proper governance, integration of interdisciplinary knowledge, and involvement from local and Indigenous communities for EbA to be successful. Without these, there is a risk of maladaptation."
+        },
+        {
+          "question": "What does the document suggest as critical for achieving successful climate-resilient development while addressing climate change impacts?",
+          "options": [
+            "a) Exclusive focus on reducing emissions without adaptation efforts",
+            "b) Developing large-scale monocultures for carbon sequestration",
+            "c) Protecting and restoring ecosystems while reducing greenhouse gas emissions",
+            "d) Ignoring biodiversity conservation in favor of technological solutions"
+          ],
+          "answer": "c) Protecting and restoring ecosystems while reducing greenhouse gas emissions.",
+          "explanation": "The document emphasizes the importance of integrating ecosystem protection and restoration with efforts to reduce greenhouse gas emissions to build climate resilience. It advocates for a holistic approach that combines mitigation and adaptation strategies and respects biodiversity and ecosystem integrity."
+        }
+      ]
+    }
+  ]
+}

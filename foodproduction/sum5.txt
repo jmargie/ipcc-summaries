@@ -1,0 +1,8 @@
+Prompt: 'Please summarize the following document:'
+
+
+The document discusses the observed impacts of climate change on food production systems, including crops, fisheries, and livestock, along with implications for food security and prices. It highlights the challenges in formally detecting and attributing these impacts to climate change, due to the numerous non-climate drivers such as agricultural practices and technological advancements. For crops, medium confidence is noted in the negative effects of climate trends on wheat and maize production globally, while rice and soybeans have shown smaller impacts. High confidence is indicated in positive impacts of warming on high-latitude regions. Extreme events' impacts on crops are challenging to quantify but are significant, with evidence of anthropogenic activities affecting their likelihood.
+
+In fisheries, changes in ocean temperatures have led to shifts in fish distribution, impacting commercial fisheries, especially in the Northeast Atlantic and southeast Australia. Coral reefs, crucial to coastal fisheries, face severe threats from overfishing and rising ocean temperatures. There's less information on freshwater fisheries, with mixed interpretations of climate change impacts in certain African lakes.
+
+For livestock, less research exists on climate impacts. Climate change has facilitated the spread of diseases like blue-tongue virus in Europe. The document also outlines the impact of climate change on food security and prices, noting difficulty in quantifying effects due to non-climate factors. Recent increases in food prices are linked to climate extremes in major producer regions and amplified by domestic policy responses.

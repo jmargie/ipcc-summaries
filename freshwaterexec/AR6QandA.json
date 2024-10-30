@@ -1,0 +1,58 @@
+{
+  "Prompts": [
+    {
+      "type": "short-answer",
+      "instruction": "Please come up with three short-answer questions to test reading comprehension -- which cannot be answered by searching for specific words -- for this document: [text]. Provide an answer after.",
+      "Response": [
+        {
+          "Question": "How does climate change affect freshwater resources differently in dry subtropical regions compared to high latitude regions, and what are the implications for water competition and security?",
+          "Answer": "In dry subtropical regions, climate change is projected to significantly reduce renewable surface water and groundwater resources, intensifying competition for water among agriculture, ecosystems, settlements, industry, and energy production, thereby affecting regional water, energy, and food security. In contrast, water resources are projected to increase at high latitudes."
+        },
+        {
+          "Question": "What are the projected impacts of climate change on flood frequency and risk at a global scale, and what factors contribute to the increased flood risk?",
+          "Answer": "Climate change is projected to increase flood hazards in parts of South, Southeast, and Northeast Asia, tropical Africa, and South America. Although there are no widespread observations of changes in flood magnitude and frequency due to anthropogenic climate change, the increase in global flood risk is attributed partly to greater exposure and vulnerability, and partly to climate change."
+        },
+        {
+          "Question": "What adaptive strategies are proposed to manage the uncertainties in water resource management due to climate change, and what barriers might hinder their implementation?",
+          "Answer": "Proposed adaptive strategies include scenario planning, learning from experience through experimental approaches, and developing flexible and low-regret solutions resilient to uncertainty. Barriers to their implementation include lack of human and institutional capacity, financial resources, awareness, and communication."
+        }
+      ]
+    },
+    {
+      "type": "multiple-choice",
+      "instruction": "Please come up with three multiple choice questions to test reading comprehension -- which cannot be answered by searching for specific words -- for this document: [text]. Provide an answer after.",
+      "Response": [
+        {
+          "Question": "How does climate change affect freshwater resources in high-latitude areas compared to dry subtropical regions?",
+          "Choices": [
+            "a) High latitudes will experience less competition for water, whereas dry subtropical regions will see increased water resources.",
+            "b) High latitudes are projected to have increased water resources, while dry subtropical regions are expected to face significant reductions in renewable surface water and groundwater resources, increasing competition for water.",
+            "c) Both regions are projected to experience similar decreases in water resources, intensifying competition for water throughout.",
+            "d) Dry subtropical regions will have improved water quality, whereas high latitudes will face reduced water availability."
+          ],
+          "Answer": "b) High latitudes are projected to have increased water resources, while dry subtropical regions are expected to face significant reductions in renewable surface water and groundwater resources, increasing competition for water."
+        },
+        {
+          "Question": "What is the relationship between climate change and the frequency and magnitude of floods, according to the document?",
+          "Choices": [
+            "a) Numerous widespread observations confirm that anthropogenic climate change has already increased flood magnitude and frequency worldwide.",
+            "b) While there is no widespread observational evidence yet, projections suggest an increase in flood frequency and magnitude in specific regions, notably South, Southeast, and Northeast Asia, tropical Africa, and South America.",
+            "c) Flood frequencies and magnitudes are expected to decrease globally despite climate change, reducing socioeconomic losses over time.",
+            "d) Projections indicate a global uniform increase in flood magnitude and frequency due to anthropogenic climate change, supported by robust evidence."
+          ],
+          "Answer": "b) While there is no widespread observational evidence yet, projections suggest an increase in flood frequency and magnitude in specific regions, notably South, Southeast, and Northeast Asia, tropical Africa, and South America."
+        },
+        {
+          "Question": "In terms of adaptation strategies, what barriers are identified in addressing uncertainty due to climate change in the context of water management?",
+          "Choices": [
+            "a) Outdated technology and policies prevent effective adaptation strategies.",
+            "b) High levels of available financial resources and institutional capacity, along with strong awareness and communication, enable seamless adaptation progress.",
+            "c) Addressing uncertainty is hampered by a lack of human and institutional capacity, financial resources, awareness, and communication.",
+            "d) Technological advancements in water management offer comprehensive solutions, eliminating major barriers to adaptation."
+          ],
+          "Answer": "c) Addressing uncertainty is hampered by a lack of human and institutional capacity, financial resources, awareness, and communication."
+        }
+      ]
+    }
+  ]
+}

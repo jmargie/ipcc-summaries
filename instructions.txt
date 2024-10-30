@@ -1,0 +1,42 @@
+Here are the main steps to have a go at comparing IPCC reports (over time) about a specific subtopic:
+Input: pdf files containing the report section in question (more about this in the next message)
+Step 1 - ask an LLM to extract text from the respective PDFs. Save the text somewhere .. let's say we end up with textA (from 2023) and textB (from an earlier report, say X years ago, about roughly the same topic)
+Claude does accept reasonably short pdf as input.
+OpenAI should do too (or do we need to use the API)
+Step 2 - Prompt an LLM to come up with questions for A and B separately, and comparatively.
+This is similar to making a reading comprehension test, hopefully in-depth enough that they cannot be solved by word-spotting.
+Try different prompts ...
+
+
+Q: So which bits of IPCC report to pulls out, and what are some considerations about what could make good (vs bad) candidates?
+background: IPCC reports are all online, 
+
+ A term we'll use: they have 3 working groups (WG I - physical science, II - mitigation, III - impact + adaptation).  The full assessment reports are called AR6 (released 2021-2023), AR5 (2013-2014)... going all the way back to AR1 (released ~1990 ... it also has a special acronym FAR, as in first assessment report).
+
+
+Here are some criteria we can think of:
+
+(1) textA and textB should be <=5 pages (certainly <10 including figures), so that an expert (i.e. you : ) can grapple with the content and decide whether the output are good and hopefully come up with directions to improve.
+
+
+(2) be on the same topic -- this sounds easy enough ... noting some topics are too broad (e.g. climate change in cities), some maybe too narrow (changes in solar irradiance) or no much uncertainty (did humans cause this?)
+
+(3) STRETCH goal if you have time: curate two sets of comparable documents from two different WGs (as you can imagine the content and styles are quite different)
+
+
+so how easy is it to find two sections about the same subject across, say AR6 and ARX (X taking any number 5, 4, ..1) ?
+this seems harder than it needs to be due to sheer doc size (each WG in AR6 is a few 1000s of pages) ... and different AR have different chapter/section structure.
+
+approach 1 - 
+	one can look at the table-of-content top-down and identify candidates. Page 9-12 of this weekly update (by the ANU team) contain AR6 vs AR5 chapter lists. For recent ARs you'll need to look at chapter-level ToC since each chapter is close to or more than 100 pages.
+
+approach 2 - 
+	one can try to find some keywords and then narrow down on which chapter/section from here. again "cities" is probably too broad, words like "wetland" "permafrost" are likely going to yield matches in a few places.
+
+approach 3 - 
+	Ruiqi in our ANU team has extracted all statements ... we can query by statement and where they're from. This spreadsheet  contains 38 human health related statements and where they're from -- in the columns ar, source, text (ignore the last col which are the chinese translations)
+Feel free to have a look, or let us know which keywords/phrases look promising for pulling out another collection.
+
+in AR6 at least, some sections/chapters refers to AR5 quite a lot.
+page 20 of the same slide deck as above has a few examples.
+this might point to meaningful parts, or might not (too detailed, too much)

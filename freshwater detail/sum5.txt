@@ -1,0 +1,16 @@
+prompt: 'Please summarize the following document:'
+The document is a section from AR5 Chapter 3, addressing biologically significant physical changes in freshwater systems due to climate change. It highlights several key observed and projected changes:
+
+1. **Thermal Habitat and Oxygen Availability**: There is robust evidence of rising temperatures in lakes and rivers, with lake surface waters warming faster than sea-surface temperatures. This warming has led to reduced lake mixing, decreased oxygen levels, and increased hypoxic conditions, affecting aquatic ecosystems.
+
+2. **Water Level Changes**: Climate change impacts on water levels are variable, with some lakes experiencing increased water storage due to glacial melt, while others are shrinking or maintaining steady levels. This variability complicates attribution to climate change.
+
+3. **River Discharge Patterns**: River flows display spatial complexity, with decreases in some regions and increases in others. Climate change is impacting river connectivity, leading to shifts in species composition and potential social impacts.
+
+4. **Loss of Ice**: There's strong evidence of accelerated loss of lake and river ice, particularly in the Northern Hemisphere, linked to enhanced polar warming.
+
+5. **Extreme Weather Events**: Climate change is increasing the frequency of extreme weather events like floods and droughts, which can severely disrupt river ecosystems, affecting biodiversity and ecosystem services.
+
+6. **Projected Changes**: Future projections suggest continued increases in water temperatures, loss of ice, and alterations in thermal regimes. These changes are expected to impact aquatic life significantly.
+
+Overall, climate-induced physical changes in freshwater systems pose substantial challenges for biodiversity and water management, necessitating enhanced understanding and mitigation efforts.

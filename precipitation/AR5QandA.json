@@ -1,0 +1,58 @@
+{
+  "Prompts": [
+    {
+      "type": "Short Answer",
+      "description": "Please come up with three short-answer questions to test reading comprehension -- which cannot be answered by searching for specific words -- for this document: [text]. Provide an answer after",
+      "questions": [
+        {
+          "question": "What are the challenges and limitations mentioned in the document regarding the modeling and detection of changes in extreme precipitation events, and how do these challenges vary by region and time scale?",
+          "answer": "The challenges and limitations regarding the modeling and detection of changes in extreme precipitation events include the natural variability and influences such as anthropogenic factors, which can mask the trends. Models often struggle with accurately representing extreme precipitation patterns, especially at smaller spatial scales, due to internal variability and observational uncertainties. The document cites difficulties in simulating extreme precipitation by climate models and mentions limited observational coverage as factors that limit confidence in assessments. Different regions show varying trends and difficulties, with more consistent trends found in regions like central North America, while other areas such as Africa show less significant trends. The disparity between thermodynamic and dynamical influences also contributes to the complexities of projecting extreme events."
+        },
+        {
+          "question": "How do the mechanisms that influence extreme precipitation events differ from those affecting average precipitation changes, according to the document?",
+          "answer": "According to the document, extreme precipitation events are influenced by both thermodynamic and dynamical mechanisms. The thermodynamic mechanisms involve changes related to atmospheric moisture content, following the Clausius–Clapeyron relation, where increased temperatures lead to higher potential precipitation intensity. However, the dynamical mechanisms involve changes in atmospheric circulation and moisture flux convergence, which are more complex and can vary significantly with location and event type. Average precipitation changes are often more influenced by large-scale circulation patterns and can follow different patterns, like the wet-get-wetter, dry-get-drier paradigm, which may not always apply to extremes. This complexity indicates that extreme events do not always correlate with total precipitation changes."
+        },
+        {
+          "question": "Discuss how regional trends in precipitation extremes from the mid-20th century onwards are characterized in the document, including any notable regional differences.",
+          "answer": "The document characterizes regional trends in precipitation extremes by noting significant variability in trends across different regions since the mid-20th century. In central North America, there is a very likely increase in the frequency and intensity of extreme precipitation events. In Europe and parts of the Mediterranean, increases are noted, particularly in winter, though some areas such as northern Italy and Poland report decreasing trends. In Asia and Oceania, trends show more increases than decreases, whereas in Africa, significant trends are generally not observed. South America is reported to have increasing trends in frequency and intensity of heavy rain events. These regional variances highlight the importance of local factors and the limitations in creating a universally applicable model for precipitation extremes."
+        }
+      ]
+    },
+    {
+      "type": "Multiple Choice",
+      "description": "Please come up with three multiple choice questions to test reading comprehension -- which cannot be answered by searching for specific words -- for this document: [text]. Provide an answer after.",
+      "questions": [
+        {
+          "question": "Which factor is most often cited as a reason for the increased likelihood of extreme precipitation events according to the Clausius–Clapeyron relationship?",
+          "options": [
+            "a. Changes in land use",
+            "b. Increased atmospheric moisture content",
+            "c. Variations in wind patterns",
+            "d. Expansion of urban areas"
+          ],
+          "answer": "b. Increased atmospheric moisture content"
+        },
+        {
+          "question": "How do natural variability and anthropogenic factors complicate the detection of trends in extreme precipitation events?",
+          "options": [
+            "a. They lead to uniform patterns across all regions.",
+            "b. They obscure trends due to increased signal-to-noise ratio.",
+            "c. They create a clear and consistent upward trend in all data.",
+            "d. They have negligible impact on observational data."
+          ],
+          "answer": "b. They obscure trends due to increased signal-to-noise ratio."
+        },
+        {
+          "question": "According to the document, what is a limitation in assessing future changes in extreme precipitation using climate models?",
+          "options": [
+            "a. Climate models provide extremely high-resolution data.",
+            "b. Climate models consistently underestimate changes in all projections.",
+            "c. There is high certainty and consistency in modeled projections.",
+            "d. Challenges in replicating observed precipitation patterns and large natural variability exist."
+          ],
+          "answer": "d. Challenges in replicating observed precipitation patterns and large natural variability exist."
+        }
+      ]
+    }
+  ]
+}

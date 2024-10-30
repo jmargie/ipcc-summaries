@@ -1,0 +1,158 @@
+Chapter 2 Terrestrial and Freshwater Ecosystems and Their Services
+
+Executive Summary
+
+Chapter 2 provides a global assessment of the observed impacts and projected risks of climate change to terrestrial and freshwater ecosystems, including their component species and the services they provide to people. Where possible, differences among regions, taxonomic groups, and ecosystem types are presented. Adaptation options to reduce risks to ecosystems and people are also assessed.
+
+Observed Impacts
+
+Multiple lines of evidence, combined with strong and consistent trends observed on every continent, indicate that many observed changes in the ranges, phenology, physiology, and morphology of terrestrial and freshwater species can be attributed to regional and global climate changes, particularly increases in the frequency and severity of extreme events. The most severe impacts are occurring in the most vulnerable species and ecosystems, characterized by inherent physiological, ecological, or behavioral traits that limit their abilities to adapt, as well as those most exposed to climatic hazards.
+
+New studies since the IPCC 5th Assessment Report (AR5) and the Special Report on Global Warming of 1.5°C show changes consistent with climate change. Where attribution was assessed, approximately half of the species had shifted their ranges to higher latitudes or elevations, and two-thirds of spring phenological events had advanced, driven by regional climate changes. Shifts in species ranges are altering community make-up, with exotic species exhibiting a greater ability to adapt to climate change than natives, especially in more northern latitudes, potentially leading to new invasive species. New analyses demonstrate that prior reports underestimated impacts due to the complexity of biological responses to climate change.
+
+Responses of freshwater species are strongly related to changes in the physical environment. Global coverage of quantitative observations in freshwater ecosystems has increased since AR5. Water temperature has increased in rivers and lakes. The extent of ice cover has declined by 25% and the duration by more than two weeks. Changes in flow have led to reduced connectivity in rivers. Indirect changes include alterations in river morphology, substrate composition, oxygen concentrations, and thermal regime in lakes. Dissolved oxygen concentrations have typically declined, and primary productivity has increased with warming. Warming and browning (increases in organic matter) have occurred in boreal freshwaters, with both positive and negative repercussions on water temperature profiles and primary productivity, as well as reduced water quality.
+
+Climate change has increased wildlife diseases. Experimental studies provide confidence in the attribution of observed increased disease severity, outbreak frequency, and the emergence of novel vectors and their diseases into new areas to recent trends in climate and extreme events. Many vector-borne diseases and those caused by ticks, helminth worms, and the chytrid fungus have shifted polewards and upwards and are emerging in new regions. In the high Arctic and at high elevations in Nepal, climate change has driven the expansion of vector-borne diseases that infect humans.
+
+Forest insect pests have expanded northward, and the severity and extent of outbreaks have increased in northern North America and northern Eurasia due to warmer winters reducing insect mortality and longer growing seasons favoring more generations per year.
+
+Local population extinctions caused by climate change have been widespread among plants and animals, detected in 47% of the species examined and associated with increases in the hottest yearly temperatures. Climate-driven population extinctions have been higher in tropical regions than in temperate regions, higher in freshwater habitats than in marine or terrestrial habitats, and higher in animals than in plants. Extreme heat waves have led to local fish die-offs in lakes and mass mortality events in birds, bats, mammals, and fish. Intensification of droughts contributes to the disappearance of small or ephemeral ponds that often harbor rare and endemic species.
+
+A growing number of studies have documented genetic evolution within populations in response to recent climate change. However, genetic changes remain within the limits of known variation for species. Controlled selection experiments and field observations indicate that evolution would not prevent a species from becoming extinct if its climate space disappears globally. Climate hazards outside of those to which species have adapted are occurring on all continents. More frequent and intense extreme events, superimposed on longer-term climate trends, have pushed sensitive species and ecosystems towards tipping points that are beyond the ecological and evolutionary capacity to adapt, causing abrupt and possibly irreversible changes.
+
+Since AR5, biome shifts and structural changes within ecosystems have been detected at an increasing number of locations, consistent with climate change and increasing atmospheric CO2. New studies are documenting that the changes projected in prior IPCC reports have now been observed, including upward shifts in the forest/alpine tundra ecotone, northward shifts in the deciduous/boreal forest ecotones, increased woody vegetation in the sub-Arctic tundra, and shifts in the thermal habitat in lakes. A combination of changes in grazing, browsing, fire, climate, and atmospheric CO2 is leading to observed woody encroachment into grasslands and savannah, consistent with projections from process-based models. There is high agreement between the projected changes in earlier reports and recent trends observed for areas of increased tree death in temperate and boreal forests and woody encroachment in savannas, grasslands, and tundra.
+
+Projected Risks
+
+Climate change increases risks to fundamental aspects of terrestrial and freshwater ecosystems, with the potential for species’ extinctions, biome shifts, and increases in the area burned by wildfire. Extinction of species is an irreversible impact of climate change, with increasing risk as global temperatures rise. The median values for the percentage of species at very high risk of extinction increase significantly with rising temperatures.
+
+Species are the fundamental unit of ecosystems, and the increasing risk of local losses of species increases the risks of reduced ecosystem integrity, functioning, and resilience with increasing warming. As species become rare, their role in the functioning of the ecosystem diminishes, reducing ecosystem services and lowering resilience to climate change.
+
+Projected Risks (Continued)
+
+Biodiversity loss is projected for more regions with increasing warming, with the most significant impacts in northern South America, southern Africa, most of Australia, and at northern high latitudes. Under high-warming scenarios, biome shifts of up to 35% of global land at ≥4°C Global Surface Air Temperature (GSAT) warming are projected, and emission reductions could limit this to less than 15% for <2°C warming. Some models suggest shifts in large portions of the Amazon rainforest to drier and lower-biomass vegetation, poleward shifts of boreal forests into the Arctic tundra, and upslope shifts of montane forests into alpine grassland. Area at high risk of biome shifts may double or triple when climate change is combined with land-use changes.
+
+Wildfire frequency is expected to increase with rising global temperatures. With 4°C GSAT warming by 2100, wildfire frequency is projected to have a net increase of ~30%. Increased wildfire, combined with soil erosion due to deforestation, could degrade water supplies. For ecosystems with a historically low frequency of fires, a projected 4°C global temperature rise increases the risk of fires, with potential increases in tree mortality and conversion of extensive parts of the Amazon rainforest to drier, lower-biomass vegetation.
+
+Continued climate change also substantially increases the risk of carbon stored in the biosphere being released into the atmosphere. Increases in processes such as wildfire, tree mortality, insect pest outbreaks, peatland drying, and permafrost thaw pose risks of self-reinforcing feedback loops between high-carbon ecosystems and increasing global temperatures. These processes are not yet fully represented in current earth system models, leading to uncertainty around the timing and magnitude of future carbon losses from ecosystems. However, studies indicate that increased carbon losses could cause large temperature increases.
+
+Contributions of Adaptation Measures to Solutions
+
+The resilience of biodiversity and ecosystem services to climate change can be increased by human adaptation actions, including ecosystem protection and restoration. A wide range of actions can reduce risks to species and ecosystem integrity. These include minimizing additional stresses or disturbances, reducing habitat fragmentation, increasing natural habitat extent and connectivity, maintaining taxonomic and functional diversity, and protecting small-scale refugia where microclimate conditions allow species to persist. Adaptation also includes actions that aid the recovery of ecosystems following extreme events.
+
+There is new evidence that species can persist in refugia where conditions are locally cooler than surrounding areas. Protecting these refugia and, in some cases, creating cooler microclimates are promising adaptation measures. Plasticity, including changes in phenology or behavior, and genetic adaptation may allow species to persist for longer than expected. However, these mechanisms are unlikely to prevent global extinctions of rare species already near their climatic limits or species inhabiting zones that are disappearing.
+
+Since AR5, many adaptation plans and strategies have been developed to protect ecosystems and biodiversity. However, there is limited evidence of how widely these measures have been implemented, and little evaluation of their effectiveness in the scientific literature. This lack of evidence is a significant gap that needs to be addressed to refine adaptation efforts in the future.
+
+Ecosystem restoration and resilience-building efforts cannot prevent all impacts of climate change, and adaptation planning must manage inevitable changes to species distributions, ecosystem structures, and processes. Actions to manage inevitable change include modifying local microclimate or hydrology, adjusting site management plans, and facilitating species' dispersal to new locations through habitat connectivity or active translocation. While adaptation can reduce risks, it cannot prevent all damaging impacts, making deep cuts in greenhouse gas emissions necessary.
+
+Contributions of Adaptation Measures to Solutions (Continued)
+
+Ecosystem-based adaptation (EbA) can deliver climate change adaptation for people, with multiple additional benefits, including those for biodiversity. An increasing body of evidence demonstrates that EbA can lower climatic risks to people, such as floods, droughts, fire, and overheating, in both urban and rural areas. EbA is part of a broader range of nature-based solutions (NbS), some of which have mitigation co-benefits. For example, the protection and restoration of forests and other high-carbon ecosystems, as well as agro-ecological farming practices, can contribute to both adaptation and mitigation. However, EbA and other NbS are not yet widely implemented.
+
+To realize the full potential benefits and avoid harm, it is essential that EbA is applied in the right places and with the right approaches for each specific area, ensuring inclusive governance. Interdisciplinary scientific information, along with practical expertise, including Indigenous and local knowledge (IKLK), are key to the effectiveness of these solutions. When this does not happen, there is a significant risk of maladaptation.
+
+EbA and other NbS are themselves vulnerable to climate change impacts. They need to account for climate change in their design if they are to remain effective. Additionally, they will increasingly be under threat at higher warming levels. NbS should not be regarded as an alternative to, or a reason to delay, deep cuts in greenhouse gas (GHG) emissions.
+
+Climate Resilient Development
+
+The protection and restoration of natural and semi-natural ecosystems are key adaptation measures, especially considering the clear evidence that the degradation of ecosystems exacerbates the impacts of climate change on both biodiversity and people. The services that these ecosystems provide, such as climate regulation, flood risk management, food provisioning, and water supply, are all under threat from a combination of climate change and other human pressures. Adaptation strategies that treat climate, biodiversity, and human society as coupled systems will be the most effective.
+
+A range of analyses has concluded that approximately 30–50% of Earth’s surface needs to be effectively conserved to maintain biodiversity and ecosystem services. Climate change adds additional stress to ecosystem integrity and functioning, increasing the urgency for action. Low-intensity sustainable management, including practices performed by Indigenous Peoples, can support effective adaptation and maintain ecosystem health. Food and fiber production in areas outside protected zones will also need to be efficient, sustainable, and adapted to climate change to meet the needs of the human population.
+
+Natural ecosystems provide carbon storage and sequestration while offering multiple other ecosystem services, including EbA. However, there are risks of maladaptation and environmental damage from some land-based mitigation approaches. For example, large-scale plantations of single-species forests in areas that would not naturally support forests, such as savannas or temperate peatlands, have destroyed local biodiversity and created problems related to water supply, food production, fire risk, and GHG emissions. Similarly, bioenergy production (including bioenergy with carbon capture and storage, or BECCS) using dedicated crops or non-native production forests can damage ecosystems or increase competition for land, leading to risks for biodiversity.
+
+Ecosystems managed by Indigenous Peoples and local communities are often less degraded than other lands. Indigenous knowledge systems include a wide variety of resource-use practices and ecosystem stewardship strategies that conserve and enhance both wild and domestic biodiversity. Involving Indigenous and local institutions is essential for developing successful adaptation strategies.
+
+The increased frequency and severity of extreme events, which have been attributed to human greenhouse gas emissions, are compressing the timeline for natural systems to adapt and impeding the development and implementation of solutions. There is an urgent need to build resilience and assist recovery following extreme events. This, combined with long-term shifts in baseline climate conditions, highlights that adaptation and mitigation measures must be implemented without delay to be fully effective.
+
+Projected Risks (Continued)
+
+Climate change poses increasing risks to biodiversity and ecosystems. As global temperatures rise, species extinctions, biome shifts, and the expansion of wildfire-prone areas become more likely, with substantial impacts on the integrity and functioning of ecosystems. The risk of species extinctions may rise to as much as 60% at 5°C of global warming, with biome shifts projected on 15% of global land at 2°C warming, and 35% at 4°C warming. Additionally, wildfire areas could expand by 35% at 2°C and up to 40% at 4°C warming, highlighting the urgent need for mitigation.
+
+Species extinction is an irreversible consequence of climate change, with increased global warming driving the extinction risks higher. At 1.5°C of global warming, approximately 9% of species are projected to be at high risk of extinction, with this figure increasing as global temperatures rise. Even under the most optimistic scenarios, extinction rates will exceed historical norms, indicating a large-scale biodiversity crisis. These projections are consistent with earlier IPCC reports but are now based on data for many more species with much broader geographic coverage.
+
+Risk to Ecosystem Integrity and Functioning
+Species losses are not only a biodiversity issue but also a risk to ecosystem integrity, functioning, and resilience. As species become rare or disappear, the roles they play in ecosystems diminish, leading to reduced ecosystem services such as carbon sequestration, water regulation, and food production. The projected biodiversity loss will be worst in northern South America, southern Africa, parts of Australia, and northern high-latitude regions.
+
+Biome Shifts
+Climate change is expected to drive biome shifts, with extensive parts of the Amazon rainforest shifting towards drier and lower-biomass ecosystems. Similarly, boreal forests are expected to shift poleward into the Arctic tundra, while montane forests move upslope into alpine grassland areas. These changes will have far-reaching effects on global biodiversity, water systems, and carbon storage.
+
+Wildfire Risk
+The risk of wildfires is projected to increase significantly with global warming. At 4°C of warming, the frequency of wildfires could rise by 30%. These fires, combined with deforestation and soil erosion, pose significant risks to water supplies and biodiversity. In areas with historically low wildfire frequency, such as the Amazon rainforest, a 4°C rise could lead to extensive tree mortality and transform ecosystems into lower-biomass environments.
+
+Carbon Release from Ecosystems
+As climate change progresses, there is an increasing risk that ecosystems will shift from being carbon sinks to carbon sources. Processes such as wildfires, tree mortality, insect outbreaks, peatland drying, and permafrost thaw could release vast amounts of carbon into the atmosphere, accelerating global warming. These feedback loops, while not yet fully represented in earth system models, are a significant concern for future climate scenarios.
+
+Adaptation Options and Solutions
+
+Enhancing Ecosystem Resilience
+Adaptation measures can help reduce the risks posed by climate change to biodiversity and ecosystem services. Actions to protect and restore ecosystems can build resilience against climate change impacts. These include creating and maintaining natural habitat connectivity, increasing biodiversity, and preserving small-scale refugia that provide microclimates for vulnerable species.
+
+Ecosystem-based Adaptation (EbA)
+EbA offers significant benefits by reducing climatic risks, such as floods and droughts, while supporting biodiversity conservation. EbA approaches that involve nature-based solutions, like restoring forests and wetlands, can enhance ecosystem resilience to climate change. However, the success of EbA depends on proper governance, the involvement of local communities, and the use of interdisciplinary knowledge, including Indigenous knowledge systems. Without these elements, EbA carries the risk of maladaptation.
+
+Protecting Refugia
+Species can persist in refugia—areas with locally cooler or more stable conditions—where they may be sheltered from broader climatic changes. Protecting these refugia and, where possible, creating microclimates can be an effective adaptation measure. Additionally, species’ plasticity, such as changes in behavior or phenology, can allow them to persist in changing environments. However, these measures are unlikely to prevent global extinctions of species already at the limits of their climatic range.
+
+Addressing Knowledge Gaps
+While many adaptation plans and strategies have been developed, there is limited evidence about how widely they have been implemented and virtually no evaluation of their effectiveness. This gap in knowledge needs to be addressed to improve adaptation strategies and maximize their impact.
+
+Building Resilience through Restoration
+Ecosystem restoration and resilience-building are essential components of adaptation but cannot prevent all the impacts of climate change. Adaptation measures must also manage inevitable changes in species distributions, ecosystem structures, and processes. This may include actions like modifying site management plans, improving local hydrology, or facilitating the movement of species to new areas. However, adaptation cannot substitute for the need to reduce greenhouse gas emissions.
+
+Nature-Based Solutions and Sustainable Development
+
+Ecosystem-Based Solutions for Climate Resilience
+Ecosystem-based solutions, such as the protection and restoration of natural and semi-natural ecosystems, are critical for climate resilience. Healthy ecosystems provide multiple services that are essential for human well-being, such as climate regulation, water purification, and food production. Protecting ecosystems can help mitigate climate change by enhancing carbon sequestration, while also reducing risks like flooding and soil erosion.
+
+Indigenous Knowledge and Local Communities
+Land managed by Indigenous Peoples and local communities is often less degraded than other land, due to sustainable practices that conserve biodiversity and ecosystem services. Involving Indigenous knowledge and local institutions in adaptation planning is crucial for developing effective and inclusive strategies. Traditional resource-use practices often contribute to the conservation of ecosystems and can enhance resilience to climate change.
+
+Limits of Ecosystem-Based Solutions
+While ecosystem-based adaptation can offer significant benefits, it is not a substitute for deep cuts in greenhouse gas emissions. As warming intensifies, the effectiveness of nature-based solutions diminishes, making it critical to combine ecosystem protection with ambitious climate mitigation efforts.
+
+Climate Resilient Development
+
+Natural Ecosystems and Climate Resilience
+The protection and restoration of natural ecosystems are key to adapting to and mitigating climate change. There is strong evidence that ecosystem degradation exacerbates the impacts of climate change on both biodiversity and human society. Healthy ecosystems provide a range of services crucial for climate resilience, such as carbon sequestration, flood regulation, water purification, and food production. Protecting and restoring ecosystems can reduce the vulnerability of both natural systems and human communities to climate change impacts.
+
+Conserving Earth’s Surface for Biodiversity and Ecosystem Services
+A growing body of research suggests that to maintain biodiversity and ecosystem services, approximately 30–50% of Earth’s surface needs to be effectively conserved. As climate change adds pressure to ecosystems, urgent action is needed to conserve both natural and semi-natural ecosystems. Sustainable management practices, including those performed by Indigenous Peoples, are integral to conserving these areas and supporting climate adaptation. Outside of protected areas, food and fiber production must also be efficient, sustainable, and adapted to changing climatic conditions to meet the needs of a growing human population.
+
+Carbon Sequestration and Ecosystem Services
+Natural ecosystems are critical for the storage and sequestration of carbon while simultaneously providing multiple other ecosystem services, including ecosystem-based adaptation (EbA). However, there are risks of maladaptation from certain land-based mitigation measures. For instance, plantation forests or monoculture tree planting in ecosystems like savannas or peatlands can harm local biodiversity, disrupt water supplies, and increase fire risk, leading to more greenhouse gas emissions. Similarly, large-scale deployment of bioenergy, including bioenergy with carbon capture and storage (BECCS), can damage ecosystems by increasing competition for land, with risks to biodiversity.
+
+Indigenous Knowledge and Ecosystem Stewardship
+Indigenous-managed lands are often less degraded than other areas. Indigenous Peoples’ knowledge systems include a wide range of resource-use practices and ecosystem stewardship strategies that enhance biodiversity, maintain ecosystem services, and support resilience to climate change. Engaging Indigenous and local communities in adaptation planning is essential for developing effective strategies that respect traditional knowledge and promote sustainable management practices.
+
+Urgency of Action
+Increases in the frequency and severity of extreme events, such as heatwaves, floods, and wildfires, attributed to human greenhouse gas emissions, are shortening the time available for natural systems to adapt and are making it more difficult to develop and implement effective solutions. Urgent action is needed to build resilience and support the recovery of ecosystems following extreme events. Given the long-term changes in baseline climate conditions, adaptation and mitigation measures must be implemented swiftly to maximize their effectiveness.
+
+Key Adaptation Strategies for Ecosystem and Climate Resilience
+
+1. Adaptive Management of Ecosystems
+Adaptation strategies for ecosystems must recognize that climate change will continue to alter species distributions, ecosystem structures, and processes. These inevitable changes require proactive management to reduce risks. Measures include:
+
+Modifying site management plans to adjust for new climate conditions.
+Facilitating species movement by increasing habitat connectivity or actively translocating species to areas where they can thrive.
+Improving local microclimates and hydrology to reduce the vulnerability of species and ecosystems.
+2. Supporting Ecosystem Services through Restoration
+Ecosystem restoration plays a critical role in building resilience to climate change. Restoration efforts can increase biodiversity, stabilize ecosystems, and restore essential services such as carbon sequestration, water purification, and flood regulation. However, ecosystem restoration alone cannot prevent all climate impacts, and deep cuts in greenhouse gas emissions are required to limit the damage.
+
+3. Ecosystem-Based Adaptation (EbA)
+Ecosystem-based adaptation, as part of broader Nature-Based Solutions (NbS), can provide substantial benefits for both people and nature. NbS include strategies like reforestation, wetland restoration, and agroforestry, which help mitigate climate impacts while supporting biodiversity and enhancing ecosystem services. EbA techniques have proven effective in lowering the risks of floods, droughts, and other climate-related hazards in both rural and urban areas. However, the effectiveness of NbS depends on the appropriate governance, planning, and knowledge-sharing, including the integration of Indigenous and local knowledge.
+
+4. Addressing Risks of Maladaptation
+When implementing adaptation measures, there is a risk of maladaptation—solutions that inadvertently increase vulnerability to climate change or harm ecosystems. For instance, planting monocultures in ecosystems that are not naturally forested, or draining peatlands for agricultural purposes, can lead to biodiversity loss, ecosystem degradation, and increased carbon emissions. To avoid maladaptation, adaptation strategies must be based on sound ecological knowledge and tailored to local conditions.
+
+5. Aligning Adaptation with Sustainable Development Goals
+Adaptation strategies that protect ecosystems and build climate resilience also contribute to sustainable development. By maintaining ecosystem services like food and water provisioning, climate regulation, and disaster risk reduction, adaptation actions help achieve broader goals related to human health, economic stability, and environmental sustainability. Moreover, efforts to conserve biodiversity, reduce land degradation, and protect water resources are essential for achieving the United Nations Sustainable Development Goals (SDGs).
+
+Conclusion: Building a Climate-Resilient Future
+
+The impacts of climate change on terrestrial and freshwater ecosystems are increasingly evident and severe. From shifts in species distributions to the degradation of essential ecosystem services, the effects of rising global temperatures are putting both biodiversity and human well-being at risk. To build a climate-resilient future, comprehensive adaptation strategies are needed that protect and restore ecosystems, enhance their capacity to sequester carbon, and ensure the continued provision of critical services.
+
+Natural ecosystems, if protected and restored, offer powerful solutions for mitigating climate change and supporting adaptation efforts. However, these solutions must be implemented alongside significant cuts in greenhouse gas emissions to limit global warming and reduce the magnitude of future climate risks. Moreover, adaptation strategies must be inclusive, integrating diverse forms of knowledge, particularly Indigenous and local knowledge, to ensure their success and sustainability.
+
+The path forward requires immediate action, coordinated efforts across sectors, and a commitment to safeguarding both natural ecosystems and the human communities that depend on them. By investing in ecosystem-based adaptation and nature-based solutions, society can build resilience to climate change while protecting the planet’s biodiversity and ensuring a sustainable future for generations to come.

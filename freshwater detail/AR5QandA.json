@@ -1,0 +1,53 @@
+{
+  "Prompts": [
+    {
+      "type": "Short Answer",
+      "description": "Please come up with three short-answer questions to test reading comprehension -- which cannot be answered by searching for specific words -- for this document: [text]. Provide an answer after",
+      "questions": [
+        {
+          "question": "How do the warming trends in lake surface waters compare with those of sea-surface temperature (SST) according to the document, and what implications might this have for aquatic organisms?",
+          "answer": "The warming rates for lake surface waters (0.21°C–0.45°C per decade between 1970 and 2010) have exceeded sea-surface temperature trends (0.09°C per decade between 1980 and 2017). This greater warming of lake surface waters has led to complex changes in the amount of habitat available to aquatic organisms, as temperature trends in lakes can vary vertically, horizontally, and seasonally."
+        },
+        {
+          "question": "In what ways are extreme weather events affecting freshwater ecosystems according to the document, and what factors might modulate these impacts?",
+          "answer": "Extreme events, such as heat waves, storms, and loss of ice, affect freshwater ecosystems by altering water temperature, level, light, oxygen concentrations, and nutrient dynamics, ultimately impacting primary production, fish communities, and greenhouse gas emissions. These impacts are modified by levels of solar radiation, wind speed, and precipitation."
+        },
+        {
+          "question": "Describe the expected future changes in lake mixing regimes and ice cover due to climate change as projected in the document, and what challenges are associated with these projections.",
+          "answer": "Future changes in lake mixing regimes include monomictic lakes becoming permanently stratified and dimictic lakes becoming monomictic by 2080–2100. Ice-covered lakes in the Northern Hemisphere might switch to intermittent ice cover under projections of 3.2°C warming. The challenges in these projections include difficulties in predicting mixing behavior and attributing changes to climate change, compounded by a lack of reliable, long-term hydrologic observations."
+        }
+      ]
+    },
+    {
+      "type": "Multiple Choice",
+      "description": "Please come up with three multiple choice questions to test reading comprehension -- which cannot be answered by searching for specific words -- for this document: [text]. Provide an answer after.",
+      "questions": [
+        {
+          "question": "What is the primary driver of change at all levels of biological organization in freshwater systems as discussed in this document?",
+          "options": ["a) Changes in biodiversity", "b) Physical changes", "c) Chemical pollution", "d) Human activity"],
+          "answer": "b) Physical changes"
+        },
+        {
+          "question": "How have thermal regimes in lakes been altered according to the document, and what is a significant consequence of this change?",
+          "options": [
+            "a) Lakes freeze more frequently, leading to reduced biodiversity.",
+            "b) Lake waters mix more often, leading to increased dissolved oxygen levels.",
+            "c) Lake waters mix less frequently, leading to a decrease in dissolved oxygen.",
+            "d) Lakes remain constant, with no significant changes in thermal regimes."
+          ],
+          "answer": "c) Lake waters mix less frequently, leading to a decrease in dissolved oxygen."
+        },
+        {
+          "question": "How are extreme weather events expected to impact freshwater ecosystems, as described in the document, and what is a critical factor that modifies these impacts?",
+          "options": [
+            "a) Extreme weather events have no impact on freshwater ecosystems.",
+            "b) Extreme weather events lead to permanent and irreversible damage.",
+            "c) Extreme weather events affect water temperature, level, light, oxygen concentrations, and nutrient dynamics, with impacts modified by solar radiation, wind speed, and precipitation.",
+            "d) Extreme weather events improve the resilience of freshwater ecosystems."
+          ],
+          "answer": "c) Extreme weather events affect water temperature, level, light, oxygen concentrations, and nutrient dynamics, with impacts modified by solar radiation, wind speed, and precipitation."
+        }
+      ]
+    }
+  ]
+}

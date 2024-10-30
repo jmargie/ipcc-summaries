@@ -1,0 +1,12 @@
+prompt: 'Please summarize the following document:'
+The document details projected changes in precipitation patterns and extremes due to climate change, as summarized by various IPCC assessment reports, including AR4 and SREX. The projections from CMIP5 models indicate a likely increase in heavy precipitation events globally, with significant regional and seasonal variability. Most regions are expected to exhibit more intense and frequent extreme precipitation events, particularly in mid- and high-latitude areas, while some others may experience decreasing trends due to natural variability and anthropogenic influences. 
+
+Studies confirm that these changes are partly driven by increased atmospheric moisture content and large-scale circulation changes. Many models project that extreme precipitation will scale with the Clausius–Clapeyron relation, though some models suggest even greater increases, particularly for short-duration events associated with thunderstorms and tropical convection.
+
+There have been observed increases in heavy precipitation in North America and Europe since the mid-20th century, and models suggest this trend will continue. However, there are mixed results for other regions, such as Asia and Africa, with some areas showing insignificant trends.
+
+Discussion on longer-term projections highlights the expected increase in the contrast between dry and wet regions, with subtropical dry regions projected to see declines in precipitation due to thermodynamic contributions and the Hadley Cell expansion. Meanwhile, mid- and high-latitude regions will likely experience more pronounced increases in precipitation, particularly in winter, driven by thermodynamic effects.
+
+The document underscores the complexity and uncertainties in simulating and projecting precipitation extremes, noting challenges like high natural variability and the limitations of current climate models in replicating observed patterns. These impose difficulties in attributing changes directly to anthropogenic forces on smaller spatial scales. Despite these challenges, there is a medium confidence level that anthropogenic forcing has contributed to the intensification of heavy precipitation globally, especially over land areas with sufficient observational data.
+
+Additionally, the document points to a projected trend toward more intense weather events, such as thunderstorms, driven by increasing energy levels, although there is less certainty about changes in the frequency or magnitude of such events globally.
